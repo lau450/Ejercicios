@@ -1,2 +1,2 @@
 # Ejercicios
-Ejercicios realizados durante el año 2020
+Ejercicios realizados durante el año 2020.
